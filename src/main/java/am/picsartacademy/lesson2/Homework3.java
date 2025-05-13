@@ -13,7 +13,7 @@ public class Homework3 {
         int N = 2;
         int startN = 0;
         int endN = 21;
-        if (N > 0 && N < 21) {
+        if (N > startN && N < endN) {
             for (int i = 1; i < 11; i++) {
                 int myResult = N * i;
                 System.out.println(N + " x " + i + " = " + myResult);
