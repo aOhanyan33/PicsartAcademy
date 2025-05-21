@@ -1,4 +1,4 @@
-package am.picsartacademy.oopH.models.models;
+package am.picsartacademy.ooplesson5;
 
 public class Rectangle extends Shape {
     private double width;
